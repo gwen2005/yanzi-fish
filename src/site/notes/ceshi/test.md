@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ceshi/test/"}
+{"dg-publish":true,"permalink":"/ceshi/test/","tags":["gardenEntry"]}
 ---
 
 ---
